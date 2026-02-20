@@ -16,4 +16,4 @@ Email: Halipha.haidary@gmail.com
 Location: Copenhagen, Denmark
 
 GitHub Stats
-!GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=[Mufasakong]&theme=radical&hide_border=true)
