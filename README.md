@@ -3,7 +3,7 @@ My name is Mufasakong
 
 Technologies & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,blender&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=unity,blender,photoshop,illustrator&theme=dark" />
 </p>
 
 ---
