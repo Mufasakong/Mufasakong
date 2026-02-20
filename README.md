@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋</h1>
-My name is Halipha Ndikumana
+My name is Halipha Haidary
 
 Technologies & Tools
 <p>
