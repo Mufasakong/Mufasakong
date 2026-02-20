@@ -8,3 +8,12 @@ Technologies & Tools
 
 ---
 ---
+
+Contact
+Feel free to reach out
+
+Email: Halipha.haidary@gmail.com
+Location: Copenhagen, Denmark
+
+GitHub Stats
+!GitHub Streak
