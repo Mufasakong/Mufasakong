@@ -7,8 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-I am a **Medialogy student** with a strong focus on technical implementation and creating engaging and immersive interactive experiences. I often wear multiple hats on projects, from core programming and 3D modeling to digital art and even storywriting and music composition. 
-I am detail-oriented, highly eager to learn new technologies, and believe that being a good listener and collaborator is just as important as the heavy implementation.
+I am a **Medialogy student** with a strong focus on technical implementation and creating engaging, immersive interactive experiences. I often wear multiple hats on projects, taking on roles ranging from core programming and 3D modeling to digital art, creative writing, and even music composition. I am detail-oriented, eager to learn new technologies, and believe that being a good listener and collaborator is just as important as the heavy implementation.
 
 ## 🎓 Education
 
