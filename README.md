@@ -1,6 +1,11 @@
 <h1 align="center">Hey 👋</h1>
 My name is Mufasakong
 
+<h1 align="center">Skills & Tools</h1>
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,blender,photoshop,illustrator,python&theme=dark" />
+</p>
+
 <h1 align="center">Project Highlight</h1>
 
 ### 🤝 P7: FirstImpress - Adaptive Mediasystems Project (January 2026)
@@ -55,12 +60,6 @@ My name is Mufasakong
 * **Links:** [Play on Itch.io](https://g4-studios.itch.io/town-of-quandaries) 
 ---
 
-Technologies & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=unity,blender,photoshop,illustrator,python&theme=dark" />
-</p>
-
----
 ---
 
 Contact
