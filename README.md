@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Halipha</h1>
+<h1 align="center">👋 Hello, Halipha here!</h1>
 
 <p align="center">
   <i>Medialogy Masters Student | Developer | 3D & Technical Artist</i>
@@ -9,6 +9,14 @@
 ## 👨‍💻 About Me
 I am a **Medialogy student** with a strong focus on technical implementation and creating engaging and immersive interactive experiences. I often wear multiple hats on projects, from core programming and 3D modeling to digital art and even storywriting and music composition. 
 I am detail-oriented, highly eager to learn new technologies, and believe that being a good listener and collaborator is just as important as the heavy implementation.
+
+## 🎓 Education
+
+| Institution | Degree / Focus | Timeline |
+| :--- | :--- | :--- |
+| **Aalborg University, Copenhagen** | Master of Science in Medialogy (Cand.Scient.) | *2025 – 2027 (Expected)* |
+| **Aalborg University, Copenhagen** | Bachelor of Science in Medialogy | *2022 – 2025* |
+| **H.C. Ørsted Gymnasium (HTX)** | Communication/IT A & Programming B | *2018 – 2021* |
 
 ## 🛠️ Skills & Tools
 <p align="left">
