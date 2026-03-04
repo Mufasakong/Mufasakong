@@ -11,7 +11,7 @@ My name is Mufasakong
 
 * **Description:** LLM-Powered Multi-Agent Interview System. The experience features Embodied Conversational Agents engineered to replicate authentic human interactions, utilizing dynamic turn-taking and non-verbal behaviors to facilitate natural conversations.
 * **Tech Stack:** Unity, C#, Whisper, Ollama, Piper,
-* **Links:** [Github](https://github.com/SimonAxelsen/P7-Project) | [Site](https://simonaxelsen.github.io/P7_Project/)
+* **Links:** [Github](https://github.com/SimonAxelsen/P7-Project) | [Worksheet](https://simonaxelsen.github.io/P7_Project/)
 
 ### 🦀 P6: Lost Translation - Bachelor Project (June 2025)
 
