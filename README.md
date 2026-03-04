@@ -4,8 +4,11 @@ My name is Mufasakong
 <h1 align="center">Project Highlight</h1>
 
 ### 🦀 P6: Lost Translation - Bachelor Project (June 2025)
-<img width="1004" height="731" alt="Image" src="https://github.com/user-attachments/assets/2e64d20e-eea6-462e-b3a1-3b7802b8a739" />
-![Image](https://github.com/user-attachments/assets/dba07eb6-8734-4331-9be7-4030dae6ac1c)
+
+<img width="1004" height="731" alt="Screenshot of Lost Translation" src="https://github.com/user-attachments/assets/2e64d20e-eea6-462e-b3a1-3b7802b8a739" />
+
+<img width="1004" alt="Gameplay GIF" src="https://github.com/user-attachments/assets/dba07eb6-8734-4331-9be7-4030dae6ac1c" />
+
 * **The Game:** Vocabulary Through Play: Set in an adaptive desert storyworld, the game utilizes implicit learning mechanics to teach players a second language through contextual puzzle-solving and exploration.
 * **Tech Stack:** Unity, C#
 * **Links:** [Play on Itch.io](https://simonaxelsen.itch.io/lost-translation) | [View Source Code](https://github.com/SimonAxelsen/P6-Project) | [A/V Video](https://www.youtube.com/watch?v=ncxfOytqs1Q)
