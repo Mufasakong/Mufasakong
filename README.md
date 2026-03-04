@@ -33,14 +33,8 @@ I am detail-oriented, highly eager to learn new technologies, and believe that b
 
 **Location:** Copenhagen, Denmark 🇩🇰  
 I'm available!
-<p align="left">
-  <a href="halipha.haidary@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/halipha-ndikumana-4661071aa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+* 📧 **Email:** [Halipha.haidary@gmail.com](mailto:halipha.haidary@gmail.com)
+* 💼 **LinkedIn:** [in/halipha-ndikumana](https://www.linkedin.com/in/halipha-ndikumana-4661071aa/)
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=Mufasakong&theme=radical&hide_border=true" alt="GitHub Streak" />
