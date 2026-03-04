@@ -3,6 +3,16 @@ My name is Mufasakong
 
 <h1 align="center">Project Highlight</h1>
 
+### 🤝 P7: FirstImpress - Adaptive Mediasystems Project (January 2026)
+
+<img width="800" alt="Screenshot of FirstImpress" src="https://github.com/user-attachments/assets/77806ea7-9f96-4646-bad0-b8c480067e6c" />
+
+<img width="800" alt="Gameplay GIF" src="https://github.com/user-attachments/assets/6e9a780c-ba70-4261-9973-59ac18fb478d  " />
+
+* **Description:** LLM-Powered Multi-Agent Interview System. The experience features Embodied Conversational Agents engineered to replicate authentic human interactions, utilizing dynamic turn-taking and non-verbal behaviors to facilitate natural conversations.
+* **Tech Stack:** Unity, C#, Whisper, Ollama, Piper,
+* **Links:** [Github](https://github.com/SimonAxelsen/P7-Project) | [Site](https://simonaxelsen.github.io/P7_Project/)
+
 ### 🦀 P6: Lost Translation - Bachelor Project (June 2025)
 
 <img width="800" alt="Screenshot of Lost Translation" src="https://github.com/user-attachments/assets/2e64d20e-eea6-462e-b3a1-3b7802b8a739" />
