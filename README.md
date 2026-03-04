@@ -13,6 +13,16 @@ My name is Mufasakong
 * **Tech Stack:** Unity, C#
 * **Links:** [Play on Itch.io](https://simonaxelsen.itch.io/lost-translation) | [View Source Code](https://github.com/SimonAxelsen/P6-Project) | [A/V Video](https://www.youtube.com/watch?v=ncxfOytqs1Q)
 
+### 🏫 P5: Et "lille" problem (A "small" problem) - Design of Immersive Experiences Project (January 2025)
+
+<img width="800" alt="Screenshot of Lille Problem" src="https://github.com/user-attachments/assets/2fc52404-92de-498a-afe9-9e84e51beb08" />
+
+<img width="800" alt="Gameplay GIF" src="https://github.com/user-attachments/assets/2fe7feb6-525c-437a-b3be-c5a2e1c8c9b2" />
+
+* **Description:** Developed in a collaboration with Københavns Professionshøjskole, this VR simulation immerses pre-service teachers in a realistic classroom dilemma. Utilizing a branching narrative format the experience challenges users conflict resolution and problem-solving skills.
+* **Tech Stack:** Unity, C#, VR
+* **Links:** [View Source Code](https://github.com/SimonAxelsen/P6-Project) | [A/V Video](https://www.youtube.com/watch?v=UUkmlhBr_5M)
+
 ---
 
 Technologies & Tools
